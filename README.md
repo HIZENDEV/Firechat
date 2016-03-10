@@ -10,7 +10,7 @@ A simple chat with Firebase.js
 
 ##2nd Step:
 
-* Write into the input bar something.
+* Write something into the input bar.
 * Press Enter.
 * Look at the JavaScript's power !
 * And go sleep....
