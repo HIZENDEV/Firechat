@@ -16,3 +16,5 @@ A simple chat with Firebase.js
 * And go sleep....
 
 ![Chat page](http://image.noelshack.com/fichiers/2016/10/1457625851-screenshot-3.png)
+
+Try the [demo](http://hizen.fr/fire/)
